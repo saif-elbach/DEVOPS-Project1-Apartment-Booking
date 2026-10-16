@@ -155,4 +155,4 @@ The overlap collision invariant is tested and enforced through:
 ## 🔗 Links
 
 - **Repository:** https://github.com/saif-elbach/DEVOPS-Project1-Apartment-Booking.git
-- **Swagger UI:** http://localhost:8080/swagger-ui.html (when running locally)<img width="642" height="226" alt="Screenshot 2026-10-16 185649" src="https://github.com/user-attachments/assets/105f9f62-744e-4717-8b18-07e4774f0a3d" />
+- **Swagger UI:** http://localhost:8080/swagger-ui.html (when running locally)<img width="642" height="226" alt="Screenshot 2026-10-16 185649"
